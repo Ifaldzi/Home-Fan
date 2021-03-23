@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Home Fan</string>
+    <string name="label">Speed Controller</string>
+    <string name="power_btn_on_label">ON</string>
+    <string name="power_btn_off_label">OFF</string>
+    <string name="pwer_btn_label">Power</string>
+    <string name="switch_label">LIGHTS</string>
+    <string name="seekbar_label">Speed</string>
+</resources>
